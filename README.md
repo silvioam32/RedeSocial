@@ -17,7 +17,7 @@
 </h1>
 
 <h3 align="left">
-  Typescript, Styled componets, React-Native, React-Navigation.
+  Typescript, Styled componets, React-Native, Expo, React-Navigation.
 </h3>
 <a href="https://imgur.com/LawzTrD"><img src="https://i.imgur.com/LawzTrD.jpg" title="source: imgur.com" /></a>
 
